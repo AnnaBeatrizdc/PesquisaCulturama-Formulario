@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Este repositório contém um formulário web estático para coletar respostas de usuários sobre cultura e eventos. É uma página leve, sem backend, pensada para uso local ou deploy estático (por exemplo, GitHub Pages).
+Este repositório contém um formulário web estático para coletar respostas de usuários sobre cultura e eventos. Este projeto foi desenvolvido junto com um curso da Alura. É uma página leve, sem backend, pensada para uso local ou deploy estático (por exemplo, GitHub Pages).
 
 ## Status
 
@@ -53,14 +53,3 @@ Dica: para testes mais realistas com rotas e assets, rode um servidor estático 
 
 Ou hospede em qualquer serviço de arquivos estáticos (Netlify, Vercel, Surge).
 
-## Contribuição
-
-Contribuições são bem-vindas. Abra uma issue com sugestões ou envie um pull request com melhorias.
-
-## Licença
-
-Sem licença especificada. Adicione um arquivo `LICENSE` se desejar tornar este projeto open-source.
-
-## Contato
-
-Para dúvidas, sugestões ou relatórios de bugs, abra uma issue neste repositório.
